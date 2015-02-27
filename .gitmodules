@@ -1,0 +1,3 @@
+[submodule "chanGenerator"]
+	path = chanGenerator
+	url = https://github.com/pratyush912/chanGenerator
